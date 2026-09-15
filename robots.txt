@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://iamjenius63-sudo.github.io/custom-make-automation/sitemap.xml
